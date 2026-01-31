@@ -1,0 +1,18 @@
+# Current time Mon Jan 26 23:22:14 2026
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 717b0f9f. Traceback:
+# 0    0x717b0f9f: 'TkWinGetDrawableDC + 0xf'
+# 1    0x717b1cb0: 'XCopyArea + 0x20'
+# 2    0x7184d891: 'TkSetWindowMenuBar + 0x68f1'
+# 3    0x71ae653b: 'TclServiceIdle + 0x4b'
+# 4    0x71800277: 'TkGetDisplayOf + 0x1cd7'
+# 5    0x71a239f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
